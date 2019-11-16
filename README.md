@@ -6,6 +6,10 @@ Note: is this library for you? Ableton already provides an [iOS SDK](https://git
 
 However, if you require low level bindings into the C++ library, this is for you!
 
+# License
+
+SwiftLink is licensed under GPLv2+, the same as Ableton Link.
+
 # Installation 
 
 ```
